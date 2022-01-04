@@ -1,3 +1,3 @@
 module "example" {
- source= "git::ssh://git@github.com/test_empty.git"
+ source= "git::ssh://yordanivh@github.com/test_empty.git"
 }
